@@ -1,0 +1,8 @@
+v1.1
+- Added an about message box that can be viewed with F1
+- Fixed an error in the calculation of the number of runes
+- Removed the option to calculate how many El's makes an El
+- Made the output a read only text box so you can copy and paste the value
+
+v1.0
+- Initial Release
